@@ -7,5 +7,5 @@
 </div>
  
 <div align="center">
-  <img src="/greetings.gif" width="60%"/>
+  <img src="/greetings.gif" width="40%"/>
 </div>
