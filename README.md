@@ -14,7 +14,7 @@
 
 <div align="center" padding="8px">
   <p display="inline">4+ years developer</p>
-  <p display="inline">3 yeras as backend developer</p>
+  <p display="inline">3 years as backend developer</p>
 </div>
 
 <div align="center">
