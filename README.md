@@ -8,7 +8,16 @@
   <a href="https://www.linkedin.com/in/luskas8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="https://gitlab.com/luskas8">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
+</div>
+
+##
+
+<div align="center" padding="8px">
+  <p display="inline">4+ years developer</p>
+  <p display="inline">3 yeras as backend developer</p>
+</div>
+
+<div align="center">
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luskas8&show_icons=true&theme=aura&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luskas8&show_icons=true&show_icons=true&theme=aura&count_private=true" />
 </div>
